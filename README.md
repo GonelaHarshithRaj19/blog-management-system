@@ -12,7 +12,7 @@ https://blogsystemharshith.gamer.gd/admin/login.php
 ## Admin Credentials
 
 Username: admin  
-Password: admin123
+Password: admin1234
 
 ---
 
