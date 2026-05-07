@@ -12,7 +12,7 @@ https://blogsystemharshith.gamer.gd/admin/login.php
 ## Admin Credentials
 
 Username: admin  
-Password: admin1234
+Password: 1234
 
 ---
 
@@ -78,8 +78,7 @@ htdocs/
 5. Run Apache and MySQL using XAMPP
 
 6. Open in browser:
-http://localhost/blog-system/
-
+https://blogsystemharshith.gamer.gd/admin/login.php
 ---
 
 ## AJAX Features
